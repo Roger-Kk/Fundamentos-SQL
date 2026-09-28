@@ -52,9 +52,13 @@ Os arquivos .sql devem ser executados em um sistema gerenciador de banco de dado
 A sequência recomendada para os estudos segue a organização numérica dos arquivos:
 
 01_ → Fundamentos e operações básicas
+
 02_ → Consultas e recursos SQL
+
 03_ → Filtros
+
 04_ → Programação SQL
+
 05_ → Backup
 
 ## Sobre
